@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def add(a, b):
-    """the addition function
+    """My addition function
 
     Args:
         a: first integer
