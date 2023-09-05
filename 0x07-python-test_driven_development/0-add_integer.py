@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-"""Module containing a dummy adder function for testing"""
 
 
 def add_integer(a, b=98):
