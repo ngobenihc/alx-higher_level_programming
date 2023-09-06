@@ -1,12 +1,7 @@
 #!/usr/bin/python3
 
-
-
 def print_square(size):
-    """ adds integers
-        Arguments:
-            @size: size of the square
-    """
+    
 
     if type(size) is not int:
         raise TypeError("size must be an integer")
