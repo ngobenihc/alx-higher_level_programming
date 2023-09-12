@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-"""Module that loads, adds and saves arguments to a Python list"""
 from sys import argv
 
 
