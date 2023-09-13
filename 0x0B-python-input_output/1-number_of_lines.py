@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-def read_file(filename=""):
+def number_of_lines(filename=""):
     
     with open(filename, encoding='utf-8') as myFile:
-        print(myFile.read(), end='')
+        return sum([1 for line in myFile])
