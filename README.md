@@ -8,3 +8,4 @@
 0x0B-python-input_output
 0x0C. Python - Almost a circle
 0x0D-SQL_introduction
+0x0E-SQL_more_queries
